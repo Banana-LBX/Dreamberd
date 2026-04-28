@@ -1,8 +1,9 @@
 const var x = 69!
 var const y_coool = 420!
 
-print("hiluke")!
+// yes bro
+print("hiluke")! //comments
 
-if (;false) {
+if (x <= y_coool) {
     print("hiluke")!
 }
